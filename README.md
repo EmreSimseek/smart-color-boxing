@@ -1,4 +1,5 @@
-#Smart Color Boxing
+# Smart Color Boxing
+
 Renk ve Kontur Tespiti, OpenCV kullanarak belirli renkleri gerçek zamanlı video akışında tespit eden bir Python projesidir. Bu proje, etkileşimli bir şekilde farklı renkler seçmenize olanak tanır ve seçilen renge uyan nesnelerin etrafında sınır çizgileri (bounding box) çizer.
 
 Gerçek Zamanlı Tespit: Canlı kamera akışındaki belirli renkteki nesneleri gerçek zamanlı olarak tespit eder.
