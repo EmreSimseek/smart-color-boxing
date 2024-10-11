@@ -20,6 +20,7 @@ Bir Renk Seçin: Aşağıdaki tuşları kullanarak tespit etmek istediğiniz ren
 6: Eflatun
 7: Turuncu
 8: Mor
+
 Bir renk seçtikten sonra program, videodaki bu renkteki nesneleri tespit eder ve etraflarında sınır kutuları çizer.
 
 Programdan Çıkış: Programdan çıkmak için q tuşuna basmanız yeterlidir.
