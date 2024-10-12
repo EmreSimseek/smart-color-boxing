@@ -1,5 +1,43 @@
 # Smart Color Boxing
 
+## English Version (Scroll Down for Turkish)
+
+Color and Contour Detection is a Python project that detects specific colors in a real-time video stream using OpenCV. This project allows you to interactively select different colors and draw bounding boxes around objects that match the selected color.
+
+Real-Time Detection:
+Detects objects of a specific color in the live camera feed in real-time.
+
+Interactive Color Selection:
+Easily switch between colors such as red, green, blue, yellow, cyan, magenta, orange, and purple using the keyboard.
+
+Object Size Filtering:
+You can adjust the minimum contour area to avoid detecting small objects, ensuring that only large objects are marked.
+
+Simple User Interface:
+Provides visual feedback by drawing bounding boxes around detected objects.
+
+A window will open displaying the live video feed from your camera.
+
+Select a Color:
+You can use the following keys to select the color you want to detect:
+
+1: Red
+2: Green
+3: Blue
+4: Yellow
+5: Cyan
+6: Magenta
+7: Orange
+8: Purple
+Once a color is selected, the program will detect objects of that color in the video and draw bounding boxes around them.
+
+Exit the Program: To exit the program, simply press the 'q' key.
+
+
+## Türkçe Versiyon
+
+
+
 Renk ve Kontur Tespiti, OpenCV kullanarak belirli renkleri gerçek zamanlı video akışında tespit eden bir Python projesidir. Bu proje, etkileşimli bir şekilde farklı renkler seçmenize olanak tanır ve seçilen renge uyan nesnelerin etrafında sınır çizgileri (bounding box) çizer.
 
 Gerçek Zamanlı Tespit: Canlı kamera akışındaki belirli renkteki nesneleri gerçek zamanlı olarak tespit eder.
